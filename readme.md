@@ -53,7 +53,6 @@ You are expected to set up a simple system where:
 
 ### 📦 Tech Constraints
 
-* Use Python + Flask or Node.js for backend (keep it minimal)
 * Nginx must run in a Docker container, not on host
 * Use bridge networking (no host networking)
 
